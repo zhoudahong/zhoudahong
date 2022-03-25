@@ -1,3 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoudahong&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/zhoudahong">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=zhoudahong&column=7&theme=onedark"/>
+  </p>
+</a>
+<a href="#">
+  <img align="right" src="https://metrics.lecoq.io/zhoudahong?template=terminal" />
+</a>
+
+# zhoudahong 🌝
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=zhoudahong&theme=nightowl&count_private=true&show_icons=true">
+<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoudahong&theme=nightowl&layout=compact">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
