@@ -7,7 +7,7 @@
   <img align="right" src="https://metrics.lecoq.io/zhoudahong?template=terminal" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 # zhoudahong 🌝
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=zhoudahong&theme=nightowl&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoudahong&theme=nightowl&layout=compact">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
