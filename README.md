@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm JackZhou, Fullstack developer from width="13"/> <b> ChongQing, China </b> </p>
+<p>Welcome to my page! </br> I'm JackZhou, Fullstack developer from <b>ChongQing, China </b> </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-java-9cf?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Scala" src="https://img.shields.io/badge/-scala-%23FFF8DC?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Spark" src="https://img.shields.io/badge/-spark-orange?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-java-9cf?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Scala" src="https://img.shields.io/badge/-scala-%23FFF8DC?style=flat-square&logo=scala&logoColor=white" />
+  <img alt="Spark" src="https://img.shields.io/badge/-spark-orange?style=flat-square&logo=spark&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,9 +35,11 @@
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-# zhoudahong 🌝
+# zhoudahong 🌝🌝
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=zhoudahong&theme=nightowl&count_private=true&show_icons=true">
 <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoudahong&theme=nightowl&layout=compact">
+<img width="340px" src="https://skyline.github.com/zhoudahong/2021">
+
 
 <h3>Välkommen att granska <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/></h3>
 <p><img width="200" src="https:&#x2F;&#x2F;cdn2.dumpor.com&#x2F;view?q&#x3D;%3D%3DwIaBTbBNjR4lGcTJmZ11me4czRXt2b5skUzVTY4xENwdlexZnWidDWVRFW2MERNtWYohXdFVHR19kaq5WbXhUZldXc050R61Ea2d2caN0KMJTQuxWe8xnRSBDRpZUVDpHevNWdLd3KrBjcrBXeDtkRUVkVQF3crkjTr0EexZEbptkMx9WSrF1crVHf8NUM4xEdyMUUvVDSmNUR3sEMTJFcEFVaWVjcy1kYkVHWrQ0S5I0RSNHaUFFcqNja2p3Txc0ajR3SOZTU1kzKxdXMN1kMyJGWFdHR1w0Qwljb0Y0SuVVe8xHT5kXS3FkSrIHTVNDVxF2MqhjW5oXSQFEMMpVcDRzRtRkU8x3VRh1V5F0YU9kQ5tUdOpld20Gf8FXVBBTZEhkV5t0Yp52QEZ1Y40WYzk1Y3hFT5NHTrlmQahDbSpGMxNUWVFlNLZzUwpHVL9kYUJGWF9UeGZkWWRnRXF3bZVjbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn3.dumpor.com&#x2F;view?q&#x3D;%3DMSPZdEWzYFazomMPNGMXhneyMkR2k0bk9UdoFGeO9mWVJHR8xHThZTbXhjYP5EWOhVYro1NBFmcMFFRqhme3NzbCJjMk5EOqljdTd2YKlXd2kDaYJDM5oFe5dHWVJ1KidneKd1NytSUrtiaOd1RURXeHt0SxN3Nnx0KNhXYGF0SZB3KolEdUNma2IzRGhWWxwmR6NWYFtibsJjWFRkZKJnbwYzYmFnY6lTNjlGRHJUMXRmVzN0UvRlb4ZzNPZjNR1Ea6VkdVlXO2YjNwNWT5xkdFxUUEJXV5RzN4oFMNRHMHZHS4pmTyUFN8xnMYVVahJmc2YWSKh3SS90Q4AlS0skWHt2QWxEZ5IGVwFFbx8UdHFWNUhWcr8Wd3cERZF2RJd2UklVbBh1aRNXO2ZDSZhVRIxUOvJmbtpkW8xHaKRFMOJ2TYVWaxdzUxo2UOdlYUNmYVBlNOZkWUljRWN3dZdTbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Yl5kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.dumpor.com&#x2F;view?q&#x3D;j0TPBBzUNpWQ6JVVndnb3o1QXdGf8tUa4hjW3RHVihjT4BVVwFUNPJWRLVnVmtCR29ENnNDV8xXOZRUT5pkWppGWyYzNJVldT1EUHdjWtx2d4oEWTVDbjhEb5tUUXljNIJDUBVGa0N0UNdne3JUc0dmaFFFdqRVVQZTOahjTr0UO20EUX5kavRjNrNHd4N3KPh2aUJUVChWR8xnZHZjM5UFM6hFf8tUUsVFdml3Yp92cRtSQGdnRWBVexQUUshkatRHROZDTnBleZlETTVDOh92M41kTrcldV1UUItCWtllc8xXVrlkdaJDOZBHVKx2YaVzciJEbQJjW0UHNLpGbvB1QxYHZ0sUWX12QzRHZFpXMvVUTyEUN1J3bLhTY3gnY8xHSF9WZRZWSU1UWqp3TslFO4I3RIJmZwg0Szk1NrtmSwhjaKpXMuNUSVFmMhZDZop3UC9kYUhFRw8kNaZkWXhnRXF3dJVTbopmZMtyUIlDa3tkNoREf852RkdHdshTNCdFSiNXS45Uaalnbwo2NTF2Y15kUsF0RysGUykUOM12V14EZJhERadkQq5WWOVnTohXZw0Tcv0WYydWY0Nnbp1Sei1CZlR3cvh2Lt92YuIXao1WYydmLx4GZj9yL6MHc0RHa" /></p>
