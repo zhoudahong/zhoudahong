@@ -40,9 +40,9 @@
 # 🌝🌝🌝
 </br></br>
 
-<img width="330px"  height="180" src="https://github-readme-stats.vercel.app/api?username=zhoudahong&theme=nightowl&count_private=true&show_icons=true">
+<img width="330px"  height="220" src="https://github-readme-stats.vercel.app/api?username=zhoudahong&theme=nightowl&count_private=true&show_icons=true">
 </br></br>
-<img width="330px"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoudahong&theme=nightowl&layout=compact">
+<img width="330px"  height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhoudahong&theme=nightowl&layout=compact">
 </br></br>
 
 <h3>Välkommen till ChongQing.</h3>
