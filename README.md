@@ -25,7 +25,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<a href="https://github.com/zhoudahong">
+<a href="https://github.com/zhoudahong" align="center">
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=zhoudahong&column=9&theme=nightowl"/>
   </p>
