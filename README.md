@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey !   Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm JackZhou, Fullstack developer from <b>ChongQing, China </b> </p>
 <h3>Things I code with</h3>
-<p  align="center">
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-java-9cf?style=flat-square&logo=java&logoColor=white" />
   <img alt="Scala" src="https://img.shields.io/badge/-scala-%23FFF8DC?style=flat-square&logo=scala&logoColor=white" />
   <img alt="Spark" src="https://img.shields.io/badge/-spark-orange?style=flat-square&logo=spark&logoColor=white" />
@@ -27,7 +27,7 @@
 
 <a href="https://github.com/zhoudahong">
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=zhoudahong&column=7&theme=nightowl"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=zhoudahong&column=9&theme=nightowl"/>
   </p>
 </a>
 
